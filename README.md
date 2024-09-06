@@ -11,8 +11,9 @@ Early Detection of Heart Diseases: Utilizes machine learning algorithms to predi
 ## Current Status:
 - Machine Learning: The ML component is fully developed, using techniques like Random Forest and XGBoost, combined through a Voting Classifier for improved accuracy.
 - Application Development: The frontend and integration are still in progress, with a focus on delivering a seamless user experience using Kotlin for Android.
-
+### Target Application Demo prototype: 
+https://drive.google.com/file/d/1w9hmyjL6phRGzkwM0ak7yVCb3lz6pdBp/view?usp=sharing
 ## Technology Stack:
-Machine Learning: Python
-Frontend: Kotlin
-Backend: Tensorflow
+- Machine Learning: Python
+- Frontend: Kotlin
+- Backend: Tensorflow
