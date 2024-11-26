@@ -17,3 +17,5 @@ https://drive.google.com/file/d/1w9hmyjL6phRGzkwM0ak7yVCb3lz6pdBp/view?usp=shari
 - Machine Learning: Python
 - Frontend: Kotlin
 - Backend: Tensorflow
+## Presentation: 
+https://drive.google.com/file/d/1p1XB89hbk694TkPrMfjcFaJOsasLh85b/view?usp=sharing
